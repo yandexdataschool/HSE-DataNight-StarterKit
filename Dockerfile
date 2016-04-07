@@ -5,6 +5,6 @@ USER root
 RUN apt-get -y -qq update && apt-get -qq install -y curl wget python-virtualenv
 
 USER jupyter
-RUN /bin/bash -c "source activate py27 && conda install -y scikit-learn pandas"
+RUN /bin/bash -c "source activate py27 && conda install -y scikit-learn pandas" &> /dev/null
 RUN conda install -n py27 ipywidgets=4.1.0
 RUN pip install --upgrade pip
