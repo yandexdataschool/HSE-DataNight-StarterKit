@@ -13,7 +13,7 @@ URL_SUBMIT = "https://api.contest.yandex.net/anytask/submit"
 URL_PROBLEMS = "https://api.contest.yandex.net/anytask/problems"
 URL_RESULTS = "https://api.contest.yandex.net/anytask/results"
 URL_PP = "/action/contest/{contestId}/list-problems?locale=ru"
-CONTEST_ID = 1303
+CONTEST_ID = 2358
 MAX_RETRIES = 10
 SCORE_TIMEOUT = 30
 APPLICATION_ID = '2ae47301f8e64ae697c122edd7dde763'
