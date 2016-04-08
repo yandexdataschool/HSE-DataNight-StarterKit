@@ -6,6 +6,8 @@ You can start this repository right away by clicking one of those buttons:
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/yandexdataschool/HSE-DataNight-StarterKit)
 
 
+[![Gitter](https://badges.gitter.im/yandexdataschool/HSE-DataNight-StarterKit.svg)](https://gitter.im/yandexdataschool/HSE-DataNight-StarterKit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 or you can install it on your laptop 
 
 ## Install using Docker
