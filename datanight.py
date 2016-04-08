@@ -6,10 +6,10 @@ import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
 
+evaluation_url = https://www.dropbox.com/s/482zjl1hzgvej92/test.csv?dl=1"
+training_url = "https://www.dropbox.com/s/4y54q61b6s18ofh/train.csv?dl=1"
 
 def download_datasets():
-    evaluation_url = "https://www.dropbox.com/s/06n9g7srz1993kh/evaluation.handout.csv?dl=1"
-    training_url = "https://www.dropbox.com/s/4y54q61b6s18ofh/train.csv?dl=1"
     evaluation_path = "evaluation.handout.csv"
     training_path = "train.csv"
 
