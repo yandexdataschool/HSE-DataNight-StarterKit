@@ -32,8 +32,8 @@
    },
    "outputs": [],
    "source": [
-    "evaluation_url = \"http://fol6-jupyterhub01.mlhep.yandex.net/hse/test.csv\"\n",
-    "training_url = \"http://fol6-jupyterhub01.mlhep.yandex.net/hse/train.csv\"\n",
+    "evaluation_url = \"https://www.dropbox.com/s/482zjl1hzgvej92/test.csv?dl=1\"\n",
+    "training_url = \"https://www.dropbox.com/s/4y54q61b6s18ofh/train.csv?dl=1\"\n",
     "evaluation_path = \"evaluation.handout.csv\"\n",
     "training_path = \"train.csv\"\n",
     "\n",
